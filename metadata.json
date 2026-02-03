@@ -1,0 +1,5 @@
+{
+  "name": "Scrum Meeting Health Analyzer",
+  "description": "An AI-driven platform for Scrum Masters to analyze meeting notes, evaluate goal alignment, detect anti-patterns, and visualize team health trends.",
+  "requestFramePermissions": []
+}
